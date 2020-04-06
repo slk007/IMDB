@@ -1,0 +1,25 @@
+movie:
+    title
+    description
+    tags
+    views count
+    image
+    category
+    language
+    year of production
+    status [recently added - most watched -top rated]
+    download
+    watch links
+    cast
+
+related movies
+
+search
+
+no movie in year
+slug
+movie trailer
+slider
+related movies
+tags
+home
